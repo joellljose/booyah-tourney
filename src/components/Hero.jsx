@@ -71,7 +71,7 @@ export default function Hero() {
   return (
     <section className="hero" id="hero">
       <div className="hero-bg">
-        <img src="/hero-bg.png" alt="Free Fire Battle" />
+        <img src="./hero-bg.png" alt="Free Fire Battle" />
       </div>
 
       <div className="hero-gradient-orb orb-1" />
@@ -132,7 +132,7 @@ export default function Hero() {
         <div className="hero-visual">
           <div className="hero-phone-glow" />
           <div className="hero-phone">
-            <img src="/app-mockup.png" alt="Booyah Tourney App" />
+            <img src="./app-mockup.png" alt="Booyah Tourney App" />
           </div>
 
           <div className="hero-floating-card card-1">
